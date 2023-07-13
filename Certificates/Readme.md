@@ -17,4 +17,7 @@
   <div>
     <img src='https://github.com/AkashHiremath856/AkashHiremath856/blob/main/Certificates/archives/python_basic%20certificate(HackerRank).jpg'alt='python_basic%20certificate(HackerRank)'/>
   </div>
+  <div>
+    <img src='https://github.com/AkashHiremath856/AkashHiremath856/blob/main/Certificates/archives/problem_solving_basic%20certificate(HackerRank).jpg' alt='problem_solving_basic certificate(HackerRank)'/>
+  </div>
 </div>
