@@ -4,7 +4,7 @@
 <h3 align="center">A passionate about Data Science | Machine Learning</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashhiremath856&label=Profile%20views&color=0e75b6&style=flat" alt="akashhiremath856" /> </p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **LLM**
 
 - 💬 Ask me about **Data Science, Machine Learning and Deep Learning**
 
