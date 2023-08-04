@@ -9,7 +9,7 @@
 
 <div><h3>KPMG Internship Certificate</h3>
 <div>
-  <img src='https://github.com/AkashHiremath856/AkashHiremath856/blob/main/Certificates/archives/KPMG%20Internship.jpg' alt='KPMG Internship'/>
+  <img src='https://github.com/AkashHiremath856/AkashHiremath856/blob/main/Certificates/archives/KPMG%20Internship.png' alt='KPMG Internship'/>
 </div>
 </div>
 
