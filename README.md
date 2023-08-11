@@ -1,7 +1,7 @@
 <div align=center">
 <img src="https://github.com/AkashHiremath856/AkashHiremath856/blob/main/LinkedIn%20Banner.png"></div>
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate about Data Science | Machine Learning</h3>
+<h3 align="center">Passionate about Data Science | Machine Learning</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashhiremath856&label=Profile%20views&color=0e75b6&style=flat" alt="akashhiremath856" /> </p>
 
 - 🌱 I’m currently learning **LLM**
