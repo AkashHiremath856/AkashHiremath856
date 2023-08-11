@@ -14,9 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akash-hiremath25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-hiremath25" height="30" width="40" /></a>
-<a href="https://kaggle.com/akashhiremath25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akashhiremath25" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akash_hiremath25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akash_hiremath25" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akash-hiremath25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Linkedin" alt="akash-hiremath25" height="30" width="40" /></a>
+<a href="https://kaggle.com/akashhiremath25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" title="Kaggle" alt="akashhiremath25" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akash_hiremath25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="HackerRank" alt="akash_hiremath25" height="30" width="40" /></a>
+<a href="https://medium.com/@akash.hiremath25" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" title="Blogs" alt="akashhiremath25" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
